@@ -1,4 +1,4 @@
-# sortPromises
+# sort-promises
 Sort promises by the fastest
 
 Like [Promise.race][1] but you get back all the result in the order they resolve or reject
