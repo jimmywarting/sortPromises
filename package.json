@@ -1,0 +1,25 @@
+{
+  "name": "sort-promises",
+  "version": "1.0.0",
+  "description": "Sort promises by the fastest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jimmywarting@github.com/jimmywarting/sort-promises.git"
+  },
+  "keywords": [
+    "sort",
+    "promise",
+    "fastest",
+    "race"
+  ],
+  "author": "Jimmy Wärting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmywarting/sort-promises/issues"
+  },
+  "homepage": "https://github.com/jimmywarting/sort-promises#readme"
+}
