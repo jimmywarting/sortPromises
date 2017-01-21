@@ -4,7 +4,7 @@ Sort promises by the fastest
 Like [Promise.race][1] but you get back all the result in the order they resolve or reject
 
 ```js
-let sortPromises = require('sortPromises')
+let sortPromises = require('sort-promises')
 
 let car1 = new Promise(rs => setTimeout(rs, 2000, 'Car 1'))
 let car2 = new Promise(rs => setTimeout(rs, 4000, 'Car 2'))
