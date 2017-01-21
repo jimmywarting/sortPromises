@@ -1,6 +1,8 @@
 # sort-promises
 Sort promises by the fastest
 
+[![npm version][npm-image]][npm-url]
+
 Like [Promise.race][1] but you get back all the result in the order they resolve or reject
 
 ```js
@@ -31,3 +33,5 @@ Car 4 cross the finish line
 ```
 
  [1]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise/race
+ [npm-image]: https://img.shields.io/npm/v/sort-promises.svg?style=flat-square
+ [npm-url]: https://www.npmjs.com/package/sort-promises
