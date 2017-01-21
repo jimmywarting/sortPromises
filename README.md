@@ -15,7 +15,7 @@ let racingCars = sortPromises([car1, car2, car3, car4])
 
 async function presentResult() {
   for (let car of racingCars) {
-    console.log((await car) + ' crossed the finish line')
+    console.log((await car) + ' cross the finish line')
   }
 }
 
