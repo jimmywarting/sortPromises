@@ -1,4 +1,7 @@
 # sort-promises
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/jimmywarting/sort-promises.svg)](https://greenkeeper.io/)
+
 Sort promises by the fastest
 
 [![npm version][npm-image]][npm-url]
